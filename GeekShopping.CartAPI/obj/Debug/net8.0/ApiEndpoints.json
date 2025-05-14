@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "AddCart",
+    "RelativePath": "api/v1/Cart/add-cart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vo",
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "FindById",
+    "RelativePath": "api/v1/Cart/find-cart/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "RemoveCart",
+    "RelativePath": "api/v1/Cart/remove-cart/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "UpdateCart",
+    "RelativePath": "api/v1/Cart/update-cart",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vo",
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

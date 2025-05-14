@@ -753,3 +753,4 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.ProductAP
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net8.0\GeekShopping.ProductAPI.pdb
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net8.0\GeekShopping.ProductAPI.genruntimeconfig.cache
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net8.0\ref\GeekShopping.ProductAPI.dll
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net8.0\GeekShopping.ProductAPI.sourcelink.json

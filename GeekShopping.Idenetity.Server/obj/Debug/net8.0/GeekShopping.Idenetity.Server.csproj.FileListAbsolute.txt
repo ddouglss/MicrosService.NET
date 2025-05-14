@@ -154,3 +154,4 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server\obj\Debug\net8.0\GeekShopping.Idenetity.Server.sourcelink.json

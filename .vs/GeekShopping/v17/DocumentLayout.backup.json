@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\model\\entity\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\model\\entity\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\model\\entity\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\model\\entity\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\model\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\model\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.cartapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7507A3FB-FDA4-4FED-BCF3-8E2F2FECF089}|GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj|solutionrelative:geekshopping.cartapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|d:\\program files\\microservices.net\\microsapi\\geekshopping\\geekshopping.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99218B21-5813-448D-85B1-922B6C550B23}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,78 +63,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CartDetail.cs",
-              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Entity\\CartDetail.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Entity\\CartDetail.cs",
-              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Entity\\CartDetail.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Model\\Entity\\CartDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:57:08.683Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GeekShopping.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T04:09:55.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CartHeader.cs",
-              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Entity\\CartHeader.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Entity\\CartHeader.cs",
-              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Entity\\CartHeader.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Model\\Entity\\CartHeader.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Repository\\CartRepository.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "GeekShopping.CartAPI\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wFIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:52:41.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Entity\\Product.cs",
-              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Entity\\Product.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Model\\Entity\\Product.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:46:40.364Z",
+              "WhenOpened": "2025-05-14T03:57:26.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Base\\BaseEntity.cs",
-              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Model\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Model\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T04:46:26.481Z",
+              "WhenOpened": "2025-05-14T03:56:11.688Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Config\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Config\\MappingConfig.cs",
-              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Config\\MappingConfig.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Config\\MappingConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T05:05:56.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Program.cs",
-              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.CartAPI\\Program.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Program.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Program.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T04:50:42.309Z",
+              "WhenOpened": "2025-05-14T03:13:14.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "GeekShopping.Web\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T03:10:16.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T03:07:07.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\CartService.cs",
+              "ToolTip": "D:\\Program Files\\Microservices.NET\\MicroSApi\\GeekShopping\\GeekShopping.Web\\Services\\CartService.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Services\\CartService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T04:17:38.422Z",
               "EditorCaption": ""
             }
           ]

@@ -189,3 +189,4 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\D
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\GeekShopping.Web.sourcelink.json
