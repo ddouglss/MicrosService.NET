@@ -17,6 +17,10 @@
       {
         "Path": "GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
+        "Action": "Start"
       }
     ]
   }

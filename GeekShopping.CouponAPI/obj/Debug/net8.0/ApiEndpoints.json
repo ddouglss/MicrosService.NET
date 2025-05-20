@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "GeekShopping.CouponAPI.Controllers.CouponController",
+    "Method": "FindById",
+    "RelativePath": "api/v1/Coupon/{couponCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CouponAPI.Data.ValueObjects.CouponVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

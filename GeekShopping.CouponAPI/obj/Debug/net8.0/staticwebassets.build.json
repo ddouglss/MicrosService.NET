@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5tjA08AKailux7wwE/n0tBKF6yZRMUc2wVyH4F9NyOA=",
+  "Source": "GeekShopping.CouponAPI",
+  "BasePath": "_content/GeekShopping.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
