@@ -27,6 +27,32 @@
   },
   {
     "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "ApplyCoupon",
+    "RelativePath": "api/v1/Cart/apply-coupon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vo",
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
     "Method": "FindById",
     "RelativePath": "api/v1/Cart/find-cart/{id}",
     "HttpMethod": "GET",
@@ -62,6 +88,32 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Model.Data.ValueObjcts.CartVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "RemoveCoupon",
+    "RelativePath": "api/v1/Cart/remove-coupon/{userId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],

@@ -111,12 +111,6 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.GeekShopping.CouponAPI.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.GeekShopping.CouponAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.GeekShopping.CouponAPI.props
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.CouponAPI.props
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GeekShopping.CouponAPI.props
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShop.08F0AB84.Up2Date
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShopping.CouponAPI.dll
@@ -124,3 +118,8 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShopping.CouponAPI.pdb
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShopping.CouponAPI.genruntimeconfig.cache
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\ref\GeekShopping.CouponAPI.dll
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
