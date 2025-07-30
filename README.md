@@ -8,7 +8,7 @@
 Projeto de microsserviços desenvolvido com ASP.NET Core 8, implementando conceitos modernos de arquitetura distribuída, segurança, mensageria e orquestração.  
 Esse sistema simula um e-commerce com serviços independentes para Produtos, Carrinho, Cupons e Autenticação (Identity Server).
 
-Baseado no curso de microsserviços com .NET 6, OAuth2, OpenID, Identity Server, RabbitMQ, Ocelot, Swagger e muito mais.
+Baseado no curso de microsserviços com .NET 8, OAuth2, OpenID, Identity Server, RabbitMQ, Ocelot, Swagger e muito mais.
 
 ## Tecnologias utilizadas
 
