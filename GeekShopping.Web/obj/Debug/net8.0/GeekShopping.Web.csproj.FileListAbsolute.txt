@@ -159,7 +159,6 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\D
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets.build.json
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets.development.json
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\GeekShopping.Web.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\refint\GeekShopping.Web.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\GeekShopping.Web.pdb
@@ -184,8 +183,9 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\D
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\GeekShopping.Web.sourcelink.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+d:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets\msbuild.GeekShopping.Web.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets\msbuild.GeekShopping.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+d:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.GeekShopping.Web.props
+d:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.Web.props
+d:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GeekShopping.Web.props
+d:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Web\obj\Debug\net8.0\staticwebassets.pack.json

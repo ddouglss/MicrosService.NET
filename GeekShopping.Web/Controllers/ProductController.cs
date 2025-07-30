@@ -23,7 +23,7 @@ namespace GeekShopping.Web.Controllers
             return View(products);
         }
 
-        public async Task<IActionResult> ProductCreate()
+        public IActionResult ProductCreate()
         {
             return View();
         }

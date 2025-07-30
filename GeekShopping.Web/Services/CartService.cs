@@ -67,12 +67,12 @@ namespace GeekShopping.Web.Services
             else throw new Exception("Something went wrong when calling API");
         }
 
-        public async Task<bool> ClearCart(string userId, string token)
+        public Task<bool> ClearCart(string userId, string token)
                 {
                     throw new NotImplementedException();
                 }
 
-        public async Task<CartViewModel> Checkout(CartHeaderViewModel cartHeader, string token)
+        public Task<CartViewModel> Checkout(CartHeaderViewModel cartHeader, string token)
         {
             throw new NotImplementedException();
         }
