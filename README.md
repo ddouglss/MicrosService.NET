@@ -1,5 +1,4 @@
-# GeekShopping - Microsserviços com .NET 6
-
+# GeekShopping - Microsserviços com .NET 8
 ![.NET](https://img.shields.io/badge/.NET-8-blue)
 ![C#](https://img.shields.io/badge/C%23-8.0-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -75,3 +74,13 @@ Contribuições são bem-vindas! Faça um fork do projeto, crie sua branch com f
 
 ## Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## ✍️ Autor
+
+**Douglas Muniz**  
+Estudante e desenvolvedor Java em constante aprendizado.  
+[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/seu-usuario)
+
+---
+> _Este repositório acompanha a evolução prática do conteúdo abordado no curso, com foco em aprendizado sólido e aplicação no mundo real._
+
