@@ -70,6 +70,12 @@ namespace GeekShopping.Web.Controllers
             return View();
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Checkout()
+        {
+            return View(await FindUserCart());
+        }
+
         private async Task<CartViewModel> FindUserCart()
         {
             var token = await HttpContext.GetTokenAsync("access_token");
@@ -77,7 +83,7 @@ namespace GeekShopping.Web.Controllers
 
             var response = await _cartService.FindCartByUserId(userId, token);
 
-            if (response?.CartHeader != null) 
+            if (response?.CartHeader != null)
             {
                 if (!string.IsNullOrEmpty(response.CartHeader.CouponCode))//adicionado 
                 {
