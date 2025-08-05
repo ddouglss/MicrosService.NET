@@ -1,10 +1,15 @@
-# GeekShopping - Microsserviços com .NET 8
+<div align="center">
+ <h1>
+GeekShopping - Microsserviços com .NET 8
+  
 ![.NET](https://img.shields.io/badge/.NET-8-blue)
 ![C#](https://img.shields.io/badge/C%23-8.0-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+ </h1>
+</div>
 
-## Sobre
-
+ <h1>Sobre
+</h1>
 Projeto de microsserviços desenvolvido com ASP.NET Core 8, implementando conceitos modernos de arquitetura distribuída, segurança, mensageria e orquestração.  
 Esse sistema simula um e-commerce com serviços independentes para Produtos, Carrinho, Cupons e Autenticação (Identity Server).
 
@@ -77,9 +82,9 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ## ✍️ Autor
 
-**Douglas Muniz**  
+**Douglas Souza Silva**  
 Estudante e desenvolvedor Java em constante aprendizado.  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/ddouglss) • [GitHub](https://github.com/ddouglss)
 
 ---
 > _Este repositório acompanha a evolução prática do conteúdo abordado no curso, com foco em aprendizado sólido e aplicação no mundo real._
