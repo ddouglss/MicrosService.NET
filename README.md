@@ -17,15 +17,15 @@ Baseado no curso de microsserviços com .NET 8, OAuth2, OpenID, Identity Server,
 
 ## Tecnologias utilizadas
 
-- .NET 6 / ASP.NET Core
+- .NET 8 / ASP.NET Core
 - C#
 - Duende Identity Server (OAuth2, OpenID Connect)
 - RabbitMQ (mensageria)
 - Ocelot API Gateway
-- Swagger / Swashbuckle (documentação API)
+- Swagger / Swashbuckle 
 - JWT (JSON Web Tokens)
-- MongoDB / SQL Server (banco de dados)
-- Docker (opcional)
+- Mysql
+- Docker 
 
 ## Microsserviços
 
