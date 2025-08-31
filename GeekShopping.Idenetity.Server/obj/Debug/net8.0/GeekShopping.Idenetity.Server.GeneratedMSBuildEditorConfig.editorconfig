@@ -9,101 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GeekShopping.Idenetity.Server
 build_property.RootNamespace = GeekShopping.Idenetity.Server
-build_property.ProjectDir = D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server\
+build_property.ProjectDir = C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server
+build_property.MSBuildProjectDirectory = C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Account/AccessDenied.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Account/LoggedOut.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Account/LoggedOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dnZWRPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Account/Login.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Account/Logout.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Account/Register.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Consent/Index.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Consent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Device/Success.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Device/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Device/UserCodeCapture.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Device/UserCodeCapture.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ2FwdHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Device/UserCodeConfirmation.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Device/UserCodeConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Diagnostics/Index.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Diagnostics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Grants/Index.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Grants/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Home/Index.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Home/Privacy.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/Error.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/Redirect.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/Redirect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZGlyZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/_Nav.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/_Nav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/_ScopeListItem.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/_ScopeListItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/_ValidationSummary.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/_ValidationSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU3VtbWFyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/_ViewImports.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/_ViewStart.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Program Files/Microservices.NET/MicroSApi/GeekShopping/GeekShopping.Idenetity.Server/Views/Shared/_Layout.cshtml]
+[C:/Users/cliente/Desktop/-/projetos/.net/MicrosService.NET/GeekShopping.Idenetity.Server/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wvxzt2khon

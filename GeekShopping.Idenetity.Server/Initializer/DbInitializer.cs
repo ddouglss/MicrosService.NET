@@ -22,7 +22,7 @@ namespace GeekShopping.Idenetity.Server.Initializer
 
         public void Initialize()
         {
-            if(_role.FindByNameAsync(IdentityConfiguration.Admin).Result != null) return;
+            if (_role.FindByNameAsync(IdentityConfiguration.Admin).Result != null) return;
             _role.CreateAsync(new IdentityRole(
                 IdentityConfiguration.Admin)).GetAwaiter().GetResult();
             _role.CreateAsync(new IdentityRole(

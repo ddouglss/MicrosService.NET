@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GeekShopping.ProductAPI.Controller
 {
-    
+
     [Route("api/v1/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
@@ -45,14 +45,14 @@ namespace GeekShopping.ProductAPI.Controller
             return Ok(product);
         }
 
-         [HttpPut]
+        [HttpPut]
         [Authorize]
         public async Task<ActionResult<ProductVo>> UpdateProduct(ProductVo prodPut)
         {
             if (prodPut == null) return BadRequest("Dados inválidos");
             var productUp = await _repository.Update(prodPut);
 
-            return Ok(productUp); 
+            return Ok(productUp);
         }
 
         [HttpDelete("{id}")]
@@ -61,8 +61,8 @@ namespace GeekShopping.ProductAPI.Controller
         {
             var status = await _repository.Delete(id);
             if (!status) return NotFound("Erro ao deletar Produto!");
-            
-            if(status == true) return Ok($"Produto número {id} deletado com sucesso!");
+
+            if (status == true) return Ok($"Produto número {id} deletado com sucesso!");
 
             return Ok(status);
         }

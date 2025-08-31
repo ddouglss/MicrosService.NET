@@ -30,7 +30,7 @@ namespace GeekShopping.Web.Services
                 return await response.ReadContentAs<CartViewModel>();
             else throw new Exception("Something went wrong when calling API");
         }
-        
+
         public async Task<CartViewModel> UpdateCart(CartViewModel model, string token)
         {
             _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token); //precisa setar no header da requeste esse parametro
@@ -45,7 +45,7 @@ namespace GeekShopping.Web.Services
             _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token); //precisa setar no header da requeste esse parametro
             var response = await _client.DeleteAsync($"{BasePath}/remove-cart/{cartId}");
             if (response.IsSuccessStatusCode)
-             return await response.ReadContentAs<bool>();
+                return await response.ReadContentAs<bool>();
             else throw new Exception("Something went wrong when calling API");
         }
 
@@ -57,7 +57,7 @@ namespace GeekShopping.Web.Services
                 return await response.ReadContentAs<bool>();
             else throw new Exception("Something went wrong when calling API");
         }
-   
+
         public async Task<bool> RemoveCoupon(string userId, string token)
         {
             _client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token); //precisa setar no header da requeste esse parametro
@@ -68,9 +68,9 @@ namespace GeekShopping.Web.Services
         }
 
         public Task<bool> ClearCart(string userId, string token)
-                {
-                    throw new NotImplementedException();
-                }
+        {
+            throw new NotImplementedException();
+        }
 
         public Task<CartViewModel> Checkout(CartHeaderViewModel cartHeader, string token)
         {
