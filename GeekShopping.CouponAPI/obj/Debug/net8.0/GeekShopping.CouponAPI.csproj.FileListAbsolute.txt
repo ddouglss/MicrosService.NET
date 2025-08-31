@@ -241,7 +241,6 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAP
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShop.08F0AB84.Up2Date
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShopping.CouponAPI.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\refint\GeekShopping.CouponAPI.dll

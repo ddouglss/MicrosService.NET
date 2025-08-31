@@ -53,6 +53,32 @@
   },
   {
     "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
+    "Method": "Checkout",
+    "RelativePath": "api/v1/Cart/checkout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vo",
+        "Type": "GeekShopping.CartAPI.Messages.CheckoutHeaderVO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GeekShopping.CartAPI.Messages.CheckoutHeaderVO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GeekShopping.CartAPI.Controllers.CartController",
     "Method": "FindById",
     "RelativePath": "api/v1/Cart/find-cart/{id}",
     "HttpMethod": "GET",
