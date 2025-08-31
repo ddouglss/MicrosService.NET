@@ -1,4 +1,5 @@
-﻿using GeekShopping.CartAPI.Model.Data.ValueObjcts;
+﻿using GeekShopping.CartAPI.Messages;
+using GeekShopping.CartAPI.Model.Data.ValueObjcts;
 using GeekShopping.CartAPI.Repository;
 using Microsoft.AspNetCore.Mvc;
 
@@ -66,11 +67,15 @@ namespace GeekShopping.CartAPI.Controllers
         }
         
         [HttpPost("checkout")]
-        public async Task<ActionResult<CartVO>> Checkout()
+        public async Task<ActionResult<CheckoutHeaderVO>> Checkout(CheckoutHeaderVO vo)
         {
-            var status = await _repository.RemoveCoupon(userId);
-            if (!status) return NotFound();
-            return Ok(status);
+            var cart = await _repository.FindCartByUserId(vo.UserId);
+            if (cart == null) return NotFound();
+            vo.CartDetails = cart.CartDetails;
+
+
+            // TASK: Rabbit logiv comes here
+            return Ok(vo);
         }
 
     }
