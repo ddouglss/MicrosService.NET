@@ -247,3 +247,7 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\GeekShopping.CartAPI.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\ref\GeekShopping.CartAPI.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\GeekShopping.MessageBus.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\GeekShopping.MessageBus.pdb
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
