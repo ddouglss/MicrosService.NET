@@ -21,6 +21,10 @@
       {
         "Path": "GeekShopping.Web\\GeekShopping.Web.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+        "Action": "Start"
       }
     ]
   }

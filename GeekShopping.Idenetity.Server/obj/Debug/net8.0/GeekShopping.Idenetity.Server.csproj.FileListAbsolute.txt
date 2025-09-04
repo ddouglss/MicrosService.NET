@@ -226,3 +226,4 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetit
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\obj\Debug\net8.0\GeekShopping.Idenetity.Server.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\obj\Debug\net8.0\GeekShopping.Idenetity.Server.genruntimeconfig.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\obj\Debug\net8.0\ref\GeekShopping.Idenetity.Server.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\keys\is-signing-key-80C1E7F9CFFD08A2B56A937DAB004F4F.json
