@@ -1,3 +1,4 @@
+using GeekShopping.OrderAPI.MessageConsumer;
 using GeekShopping.OrderAPI.Model.Context;
 using GeekShopping.OrderAPI.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -25,7 +26,7 @@ context.UseMySql(connection, ServerVersion.AutoDetect(connection));
 builder.Services.AddSingleton(new OrderRepository(context.Options));
 
 // Repositórios RabbitMQ
-//builder.Services.AddSingleton<IRabbitMQMessageSender, RabbitMQMessageSender>();
+builder.Services.AddHostedService<RabbitMQCheckoutConsumer>();
 
 builder.Services.AddControllers();
 
@@ -38,6 +39,15 @@ builder.Services.AddAuthentication("Bearer")
             ValidateAudience = false
         };
     });
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("ApiScope", policy =>
+    {
+        policy.RequireAuthenticatedUser();
+        policy.RequireClaim("scope", "geek_shopping");
+    });
+});
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -78,7 +88,7 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "GeekShopping.OrderAPI v1"));
 }
 
 app.UseHttpsRedirection();

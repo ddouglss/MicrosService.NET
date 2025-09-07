@@ -3,6 +3,22 @@
     "Name": " MicroServices",
     "Projects": [
       {
+        "Path": "GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.MessageBus\\GeekShopping.MessageBus.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
+        "Action": "Start"
+      },
+      {
         "Path": "GeekShopping.Idenetity.Server\\GeekShopping.Idenetity.Server.csproj",
         "Action": "Start"
       },
@@ -11,19 +27,7 @@
         "Action": "Start"
       },
       {
-        "Path": "GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
-        "Action": "Start"
-      },
-      {
         "Path": "GeekShopping.Web\\GeekShopping.Web.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
         "Action": "Start"
       }
     ]
