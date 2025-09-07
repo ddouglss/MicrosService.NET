@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,6 +29,10 @@
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RabbitMQMessageConsumer.cs",
@@ -36,14 +40,10 @@
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQMessageConsumer.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQMessageConsumer.cs",
               "RelativeToolTip": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQMessageConsumer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T01:42:00.926Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

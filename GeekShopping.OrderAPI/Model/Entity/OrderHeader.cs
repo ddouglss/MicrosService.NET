@@ -49,7 +49,7 @@ namespace GeekShopping.OrderAPI.Model
         [Column("total_itens")]
         public int CartTotalItens { get; set; }
         
-        public IEnumerable<OrderDetail> OrderDetails { get; set; }
+        public List<OrderDetail> OrderDetails { get; set; }
         
         [Column("payment_status")]
         public bool PaymentStatus { get; set; }

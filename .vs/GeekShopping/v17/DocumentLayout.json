@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\cliente\\desktop\\-\\projetos\\.net\\microsservice.net\\geekshopping.orderapi\\messageconsumer\\rabbitmqmessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\messageconsumer\\rabbitmqmessageconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\cliente\\desktop\\-\\projetos\\.net\\microsservice.net\\geekshopping.orderapi\\model\\entity\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\model\\entity\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAjwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T04:30:56.723Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -40,7 +57,7 @@
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQMessageConsumer.cs",
               "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQMessageConsumer.cs",
               "RelativeToolTip": "GeekShopping.OrderAPI\\MessageConsumer\\RabbitMQMessageConsumer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T01:42:00.926Z",
               "EditorCaption": ""
