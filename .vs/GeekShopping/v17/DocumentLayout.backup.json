@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\cliente\\desktop\\-\\projetos\\.net\\microsservice.net\\geekshopping.orderapi\\geekshopping.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\geekshopping.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\cliente\\desktop\\-\\projetos\\.net\\microsservice.net\\geekshopping.orderapi\\migrations\\20250904045950_addorderdatetablesondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\migrations\\20250904045950_addorderdatetablesondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,163 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250904045950_AddOrderDatetablesOnDB.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:59:50.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Program.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:58:12.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\appsettings.json",
-              "RelativeToolTip": "GeekShopping.CartAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-04T04:57:54.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\appsettings.json",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-04T04:57:34.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250904045423_AddOrderDatetablesOnDB.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
-              "RelativeDocumentMoniker": "GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
-              "RelativeToolTip": "GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:54:23.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CheckoutHeaderVO.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:33:10.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:27:18.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MySQLContext.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:26:39.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Program.cs",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:20:26.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MySQLContext.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeToolTip": "GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:35:31.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderHeader.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:27:34.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T04:25:09.669Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -234,7 +86,165 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeekShopping.OrderAPI",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T05:52:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250904045950_AddOrderDatetablesOnDB.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:59:50.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Program.cs",
+              "RelativeToolTip": "GeekShopping.CartAPI\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:58:12.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\appsettings.json",
+              "RelativeToolTip": "GeekShopping.CartAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T04:57:54.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\appsettings.json",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T04:57:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250904045423_AddOrderDatetablesOnDB.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
+              "RelativeToolTip": "GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:54:23.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckoutHeaderVO.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
+              "RelativeToolTip": "GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:33:10.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:27:18.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:26:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Program.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:20:26.94Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:35:31.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:27:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:25:09.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
@@ -242,8 +252,7 @@
               "RelativeToolTip": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAUwE4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T03:48:50.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T03:48:50.912Z"
             }
           ]
         }
