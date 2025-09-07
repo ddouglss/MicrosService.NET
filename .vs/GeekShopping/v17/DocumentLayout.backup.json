@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\cliente\\desktop\\-\\projetos\\.net\\microsservice.net\\geekshopping.orderapi\\migrations\\20250904045950_addorderdatetablesondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\migrations\\20250904045950_addorderdatetablesondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|c:\\users\\cliente\\desktop\\-\\projetos\\.net\\microsservice.net\\geekshopping.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45CFBC67-84E5-4A29-A846-2967A302DD69}|GeekShopping.OrderAPI\\GeekShopping.OrderAPI.csproj|solutionrelative:geekshopping.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20250904045950_AddOrderDatetablesOnDB.cs",
+              "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "ToolTip": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "RelativeToolTip": "GeekShopping.OrderAPI\\Migrations\\20250904045950_AddOrderDatetablesOnDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T04:59:50.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Program.cs",
               "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Program.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\appsettings.json",
               "RelativeDocumentMoniker": "GeekShopping.CartAPI\\appsettings.json",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\appsettings.json",
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\appsettings.json",
@@ -101,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20250904045423_AddOrderDatetablesOnDB.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
               "RelativeDocumentMoniker": "GeekShopping.Idenetity.Server\\Migrations\\20250904045423_AddOrderDatetablesOnDB.cs",
@@ -114,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CheckoutHeaderVO.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
               "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Messages\\CheckoutHeaderVO.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderDetail.cs",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MySQLContext.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Context\\MySQLContext.cs",
@@ -153,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Program.cs",
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Program.cs",
@@ -166,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MySQLContext.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
               "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Model\\Context\\MySQLContext.cs",
@@ -179,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Entity\\OrderHeader.cs",
@@ -192,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "GeekShopping.OrderAPI\\Model\\Base\\BaseEntity.cs",
@@ -217,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\cliente\\Desktop\\-\\projetos\\.net\\MicrosService.NET\\GeekShopping.CartAPI\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "GeekShopping.CartAPI\\Controllers\\CartController.cs",
