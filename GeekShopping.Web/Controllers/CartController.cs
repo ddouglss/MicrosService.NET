@@ -84,9 +84,14 @@ namespace GeekShopping.Web.Controllers
 
             var response = await _cartService.Checkout(model.CartHeader, token);
 
-            if (response != null)
+            if (response != null && response.GetType() == typeof(string)) //alterado
             {
-                return RedirectToAction(nameof(Confirmation));
+                TempData["Error"] = response; //alterado
+                return RedirectToAction(nameof(Checkout)); //alterado
+            }
+            else if (response != null) //alterado
+            {
+               return RedirectToAction(nameof(Confirmation));
             }
             return View(model);
         }
