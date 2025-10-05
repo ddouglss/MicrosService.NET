@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.userosscache
+*.sln.ide
+
+# Builds e binários .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Pacotes NuGet
+packages/
+*/packages/
+
+# Logs e temporários
+*.log
+TestResults/
+
+# Outros comuns
+node_modules/
+.env
+appsettings.*.json  # Ignora configs locais, mas mantenha appsettings.json se for genérico
+
+# Arquivos de projeto específicos (ajuste se necessário)
+gitignore  # Ignora o arquivo errado que você criou sem o ponto

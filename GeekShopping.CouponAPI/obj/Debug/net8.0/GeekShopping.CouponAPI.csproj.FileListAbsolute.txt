@@ -247,3 +247,4 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAP
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShopping.CouponAPI.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\GeekShopping.CouponAPI.genruntimeconfig.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\ref\GeekShopping.CouponAPI.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CouponAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

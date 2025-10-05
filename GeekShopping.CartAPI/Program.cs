@@ -31,7 +31,7 @@ builder.Services.AddScoped<ICouponRepository, CouponRepository>();
 builder.Services.AddSingleton<IRabbitMQMessageSender, RabbitMQMessageSender>();
 
 builder.Services.AddHttpClient<ICouponRepository, CouponRepository>(c =>
-    c.BaseAddress = new Uri(builder.Configuration["ServicesUrls:CouponAPI"] ?? throw new InvalidOperationException("A URL do serviço 'CouponAPI' não foi encontrada.")));
+    c.BaseAddress = new Uri(builder.Configuration["ServiceUrls:CouponAPI"]));
 
 // Controllers
 builder.Services.AddControllers();
