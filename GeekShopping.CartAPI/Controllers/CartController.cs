@@ -3,6 +3,7 @@ using GeekShopping.CartAPI.Messages;
 using GeekShopping.CartAPI.Model.Data.ValueObjcts;
 using GeekShopping.CartAPI.RabbitMQSender;
 using GeekShopping.CartAPI.Repository;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GeekShopping.CartAPI.Controllers
@@ -73,13 +74,16 @@ namespace GeekShopping.CartAPI.Controllers
         [HttpPost("checkout")]
         public async Task<ActionResult<CheckoutHeaderVO>> Checkout(CheckoutHeaderVO vo)
         {
-            string token = Request.Headers["Authorization"];
+            //   string token = Request.Headers["Authorization"];
+            var token = await HttpContext.GetTokenAsync("access_token");
+
+
             if (vo?.UserId == null) return BadRequest();
             var cart = await _cartRepository.FindCartByUserId(vo.UserId);
             if (cart == null) return NotFound();
             if(!string.IsNullOrEmpty(vo.CouponCode))
             {
-                CouponVO coupon = await _couponRepository.GetCouponByCouponCode(vo.CouponCode, token);
+                CouponVO coupon = await _couponRepository.GetCoupon(vo.CouponCode, token);
                 if (vo.DiscountTotal != coupon.DiscountAmount)
                 {
                     return StatusCode(412, "The coupon has been changed, please confirm!");
