@@ -161,6 +161,7 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -224,6 +225,8 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\GeekShopping.MessageBus.dll
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\GeekShopping.MessageBus.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\GeekShopping.CartAPI.csproj.AssemblyReference.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\GeekShopping.CartAPI.GeneratedMSBuildEditorConfig.editorconfig
@@ -247,7 +250,4 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\GeekShopping.CartAPI.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\ref\GeekShopping.CartAPI.dll
-C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\RabbitMQ.Client.dll
-C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\GeekShopping.MessageBus.dll
-C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\bin\Debug\net8.0\GeekShopping.MessageBus.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.CartAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

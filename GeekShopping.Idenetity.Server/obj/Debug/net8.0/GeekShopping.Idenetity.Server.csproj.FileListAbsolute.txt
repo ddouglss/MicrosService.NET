@@ -156,6 +156,7 @@ D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity
 D:\Program Files\Microservices.NET\MicroSApi\GeekShopping\GeekShopping.Idenetity.Server\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\keys\is-signing-key-80C1E7F9CFFD08A2B56A937DAB004F4F.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\keys\is-signing-key-DBF5C6E6B1B7E56EF23A8A9D6061DB4B.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\GeekShopping.Idenetity.Server.staticwebassets.runtime.json
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\GeekShopping.Idenetity.Server.staticwebassets.endpoints.json
@@ -226,4 +227,3 @@ C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetit
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\obj\Debug\net8.0\GeekShopping.Idenetity.Server.pdb
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\obj\Debug\net8.0\GeekShopping.Idenetity.Server.genruntimeconfig.cache
 C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\obj\Debug\net8.0\ref\GeekShopping.Idenetity.Server.dll
-C:\Users\cliente\Desktop\-\projetos\.net\MicrosService.NET\GeekShopping.Idenetity.Server\bin\Debug\net8.0\keys\is-signing-key-80C1E7F9CFFD08A2B56A937DAB004F4F.json
